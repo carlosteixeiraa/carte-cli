@@ -2,6 +2,10 @@
 
 carte-cli is an command line interface application for web developers, its a helpfull tool for everyone but the focus is for freelancers, it have tools that will help you develop faster, you can check frameworks links, search on stackoverflow, get colors and a lot other usefull tools.
 
+
+### Disclaimer
+PLEASE NOTICE THIS APPLICATION IS UNDER DEVELOPMENT, IF YOU TRY TO ACESS TO WEBSITE OR TO INSTALL THE PACKAGE AND IT DON'T WORK UNDERSTAND IT, JUST WAIT UNTIL THE BETA RELEASE IS OUT.
+
 ### How to install
 
 ```
