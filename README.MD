@@ -5,7 +5,7 @@ carte-cli is an command line interface application for web developers, its a hel
 ### How to install
 
 ```
-	npm install carte-cli -g
+npm install carte-cli -g
 ```
 
 
@@ -14,12 +14,12 @@ carte-cli is an command line interface application for web developers, its a hel
 Request
 
 ```
-	carte bootstrap 
+carte bootstrap 
 ```
 
 Response
 ```
-	Bootstrap Link - https://somethinghere.hello/otherthinghere.css
+Bootstrap Link - https://somethinghere.hello/otherthinghere.css
 ```
 
 ### Colors
@@ -27,7 +27,7 @@ Response
 Request
 
 ```
-	carte palletes
+carte palletes
 ```
 
 Response
