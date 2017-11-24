@@ -1,6 +1,6 @@
 ## carte-cli
 
-carte-cli is an command line interface application for web developers, its a helpfull tool for everyone but the focus is for freelancers, it have tools that will help you develop faster, you can check frameworks links, search on stackoverflow, get colors and a lot other usefull tools.
+carte-cli is an command line interface application for web developers, its a helpfull tool for everyone but the focus is for freelancers, it have tools that will help you develop faster, you can check frameworks links, search on stackoverflow, get colors and a lot of other usefull tools.
 
 
 ### Disclaimer
