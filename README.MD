@@ -33,14 +33,14 @@ carte palletes
 Response
 
 ```
-	Pallete 1 -
-		#FFAAFF
-		#FFAAFF
-		#FFAAFF
-		#FFAAFF
-		#FFAAFF
-		#FFAAFF
-		#FFAAFF
+Pallete 1 -
+	#FFAAFF
+	#FFAAFF
+	#FFAAFF
+	#FFAAFF
+	#FFAAFF
+	#FFAAFF
+	#FFAAFF
 ```
 
 ### Contributions
