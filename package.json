@@ -8,7 +8,6 @@
   },
   "author": "Carlos Teixeira",
   "license": "MIT",
-  "dependencies": {
-    "commander": "^2.12.2"
-  }
+  "preferGlobal": true,
+  "dependencies": {}
 }
